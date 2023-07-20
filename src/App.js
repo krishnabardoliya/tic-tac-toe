@@ -197,7 +197,7 @@ const App = () => {
   return (
    <div style={styles}>
    <BoardDiv/>
-   <center>Source code here: <a href="https://www.github.com/krishna-bardoliya/tic-tac-toe">https://www.github.com/krishna-bardoliya/tic-tac-toe</a></center>
+   <center>Source code here: <a href="https://krishnabardoliya.github.io/tic-tac-toe">https://krishnabardoliya.github.io/tic-tac-toe</a></center>
    </div>
   );
 };
